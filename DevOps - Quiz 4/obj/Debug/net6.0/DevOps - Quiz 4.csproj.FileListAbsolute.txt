@@ -1,0 +1,15 @@
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\bin\Debug\net6.0\DevOps - Quiz 4.exe
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\bin\Debug\net6.0\DevOps - Quiz 4.deps.json
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\bin\Debug\net6.0\DevOps - Quiz 4.runtimeconfig.json
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\bin\Debug\net6.0\DevOps - Quiz 4.dll
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\bin\Debug\net6.0\DevOps - Quiz 4.pdb
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\obj\Debug\net6.0\DevOps - Quiz 4.csproj.AssemblyReference.cache
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\obj\Debug\net6.0\DevOps - Quiz 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\obj\Debug\net6.0\DevOps - Quiz 4.AssemblyInfoInputs.cache
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\obj\Debug\net6.0\DevOps - Quiz 4.AssemblyInfo.cs
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\obj\Debug\net6.0\DevOps - Quiz 4.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\obj\Debug\net6.0\DevOps - Quiz 4.dll
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\obj\Debug\net6.0\refint\DevOps - Quiz 4.dll
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\obj\Debug\net6.0\DevOps - Quiz 4.pdb
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\obj\Debug\net6.0\DevOps - Quiz 4.genruntimeconfig.cache
+C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\DevOps - Quiz 4\DevOps - Quiz 4\obj\Debug\net6.0\ref\DevOps - Quiz 4.dll
